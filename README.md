@@ -77,7 +77,7 @@ Upcoming:
 
 ### VSWR Analysis
 
-![VSWR Analysis](results/1x2-vswr.jpeg)
+![VSWR Analysis](simulations/1x2-vswr-2.4ghz.jpeg)
 
 *Figure 4: VSWR response of the antenna array.*
 
